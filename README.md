@@ -1,2 +1,2 @@
-# FullStackOpen2021
-University of Helsinki Full stack open 2021 course
+# FullStackOpen2022
+University of Helsinki Full stack open 2022course
